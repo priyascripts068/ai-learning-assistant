@@ -62,29 +62,32 @@ Users can upload study materials, generate quizzes and flashcards automatically,
 ---
 
 ## 📁 Project Structure
+
+```
 ai-learning-assistant
 │
 ├── backend
-│ ├── config
-│ ├── controllers
-│ ├── middleware
-│ ├── models
-│ ├── routes
-│ ├── upload
-│ ├── utils
-│ └── server.js
+│   ├── config
+│   ├── controllers
+│   ├── middleware
+│   ├── models
+│   ├── routes
+│   ├── upload
+│   ├── utils
+│   └── server.js
 │
 ├── frontend
-│ ├── src
-│ │ ├── assets
-│ │ ├── components
-│ │ ├── context
-│ │ ├── pages
-│ │ ├── services
-│ │ ├── utils
-│ │ └── App.jsx
+│   ├── src
+│   │   ├── assets
+│   │   ├── components
+│   │   ├── context
+│   │   ├── pages
+│   │   ├── services
+│   │   ├── utils
+│   │   └── App.jsx
 │
 └── README.md
+```
 
 
 ---
