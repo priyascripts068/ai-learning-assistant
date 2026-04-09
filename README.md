@@ -92,7 +92,7 @@ ai-learning-assistant
 
 ### 1️⃣ Clone Repository
 
-git clone https://github.com/your-username/ai-learning-assistant.git  
+git clone https://github.com/priyascripts068/ai-learning-assistant.git  
 cd ai-learning-assistant  
 
 ---
@@ -163,7 +163,7 @@ POST   /api/auth/change-password
 ---
 
 ### 📄 Document Routes (Protected)
-
+git add README.md
 POST   /api/documents/upload  
 GET    /api/documents/  
 GET    /api/documents/:id  
@@ -218,12 +218,6 @@ Backend middleware validates user access
 - Dark mode  
 - Leaderboard for quizzes  
 - Mobile optimization  
-
----
-
-## 🎯 Resume Description
-
-Built a full-stack AI-powered learning platform with JWT authentication, document processing, and dynamic quiz/flashcard generation using the MERN stack.
 
 ---
 
